@@ -18,3 +18,8 @@ Notebook for automating Maxent runs.
 ## 5_TRY_data_cleaning.ipynb
 
 Notebook for cleaning TRY data for downstream comparison.
+
+## 6_validating_GPT_TRY.html
+
+R Markdown for comparing our manually validated results to each other, GPT, and TRY. The validation CSVs are in: `flower_color_phenology/manuscript
+/final_data/TRY_GPT_validation/

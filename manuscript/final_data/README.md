@@ -22,3 +22,7 @@ The full cleaned color data from TRY mapped to species.
 
 ## 5_cleaned_matched_colors.csv
 The intersection of the TRY data with the species in the iNat dataset, inclusive of potential multiple color categories for an individual species.
+
+## TRY_GPT_validation
+
+Directory containing the authors' manually scored flower colors for validation.
