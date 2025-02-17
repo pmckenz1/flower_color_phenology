@@ -1,0 +1,10 @@
+Predictor variable,Categorical,Sample average
+bombus_120,false,0.6513053591434772
+hummingbird_120,false,0.6570583582153687
+wc2.0_bio_10m_01.tif,false,13.947561541337233
+wc2.0_bio_10m_05.tif,false,30.033216824164757
+wc2.0_bio_10m_06.tif,false,-3.1704481139839986
+wc2.0_bio_10m_12.tif,false,973.3753846153846
+wc2.0_bio_10m_13.tif,false,125.8623076923077
+wc2.0_bio_10m_14.tif,false,45.246153846153845
+wc2.1_10m_elev.tif,false,486.45230769230767
